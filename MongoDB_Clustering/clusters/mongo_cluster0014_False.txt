@@ -1,0 +1,1 @@
+D NETWORK  [initandlisten] fd limit hard:65536 soft:1024 max conn: 819

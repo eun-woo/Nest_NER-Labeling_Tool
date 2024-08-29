@@ -1,0 +1,1 @@
+I CONTROL  [initandlisten] MongoDB starting : pid=5011 port=27017 dbpath=/var/lib/mongodb 64-bit host=triton13

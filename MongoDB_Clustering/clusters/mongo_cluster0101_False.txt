@@ -1,0 +1,1 @@
+D INDEX    [initandlisten] IndexRebuilder::checkNS: test.system.namespaces

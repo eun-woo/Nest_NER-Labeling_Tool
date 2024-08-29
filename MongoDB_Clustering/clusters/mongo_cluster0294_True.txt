@@ -1,0 +1,16 @@
+D COMMAND  [conn9] run command test.$cmd { isMaster: 1.0, forShell: 1.0, $db: "test" }
+D COMMAND  [conn9] run command test.$cmd { isMaster: 1.0, forShell: 1.0, $db: "test" }
+D COMMAND  [conn9] run command admin.$cmd { replSetGetStatus: 1.0, forShell: 1.0, $db: "admin" }
+D COMMAND  [conn9] run command test.$cmd { find: "student", filter: {}, $db: "test" }
+D COMMAND  [conn9] run command test.$cmd { isMaster: 1.0, forShell: 1.0, $db: "test" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { find: "student", filter: {}, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { find: "student", filter: {}, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { isMaster: 1.0, forShell: 1.0, $db: "university" }

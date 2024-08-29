@@ -1,0 +1,2 @@
+D NETWORK  [conn12] Compression negotiation not requested by client
+D NETWORK  [conn12] Compression negotiation not requested by client

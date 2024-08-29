@@ -1,0 +1,13 @@
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation
+D NETWORK  [conn9] Starting server-side compression negotiation

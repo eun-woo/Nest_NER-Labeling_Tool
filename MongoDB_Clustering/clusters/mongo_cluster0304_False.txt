@@ -1,0 +1,4 @@
+D QUERY    [conn9] Planner: outputting a collscan:
+D QUERY    [conn9] Planner: outputting a collscan:
+D QUERY    [conn9] Planner: outputting a collscan:
+D QUERY    [conn9] Planner: outputting a collscan:

@@ -1,0 +1,3 @@
+D COMMAND  [conn4] run command university.$cmd { insert: "student", ordered: true, lsid: { id: UUID("bf2eab59-e8e3-41dc-a312-b192720bdf06") }, $db: "university" }
+D COMMAND  [conn4] run command university.$cmd { insert: "student", ordered: true, lsid: { id: UUID("bf2eab59-e8e3-41dc-a312-b192720bdf06") }, $db: "university" }
+D COMMAND  [conn4] run command university.$cmd { delete: "student", ordered: true, lsid: { id: UUID("bf2eab59-e8e3-41dc-a312-b192720bdf06") }, $db: "university" }

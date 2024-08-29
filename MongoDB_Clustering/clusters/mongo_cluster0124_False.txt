@@ -1,0 +1,2 @@
+D FTDC     [ftdc] full-time diagnostic data capture schema change: field name change - from 'R' to 'w'
+D FTDC     [ftdc] full-time diagnostic data capture schema change: field name change - from 'Mutex' to 'Metadata'

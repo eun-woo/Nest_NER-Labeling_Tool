@@ -1,0 +1,8 @@
+D STORAGE  [initandlisten]     Recovering database: admin
+D STORAGE  [initandlisten]     Recovering database: db
+D STORAGE  [initandlisten]     Recovering database: university
+D STORAGE  [initandlisten]     Recovering database: mongodb_tutorial
+D STORAGE  [initandlisten]     Recovering database: student
+D STORAGE  [initandlisten]     Recovering database: test
+D STORAGE  [initandlisten]     Recovering database: config
+D STORAGE  [initandlisten]     Recovering database: local

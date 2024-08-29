@@ -1,0 +1,3 @@
+D STORAGE  [conn4] 0 pre-images coalesced into 9 write intents
+D STORAGE  [conn4] 0 pre-images coalesced into 9 write intents
+D STORAGE  [conn4] 0 pre-images coalesced into 6 write intents

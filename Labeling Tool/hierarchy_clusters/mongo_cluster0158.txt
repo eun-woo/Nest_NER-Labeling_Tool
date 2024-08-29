@@ -1,0 +1,1 @@
+I COMMAND  [conn12] command admin.$cmd command: isMaster { ismaster: 1, $db: "admin" } numYields:0 reslen:223 locks:{} protocol:op_query 0ms

@@ -1,0 +1,1 @@
+I COMMAND  [conn9] command admin.$cmd appName: "MongoDB Shell" command: isMaster { isMaster: 1, client: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.3" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "16.04" } }, $db: "admin" } numYields:0 reslen:223 locks:{} protocol:op_query 0ms

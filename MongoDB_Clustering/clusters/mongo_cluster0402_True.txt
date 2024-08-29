@@ -1,0 +1,1 @@
+D COMMAND  [conn12] run command admin.$cmd { ismaster: 1, $db: "admin" }

@@ -1,0 +1,2 @@
+D STORAGE  [conn8] 15 writes (8 kB) covered by 15 pre-images (8 kB)
+D STORAGE  [conn8] 15 writes (8 kB) covered by 15 pre-images (8 kB)

@@ -1,0 +1,4 @@
+D QUERY    [conn9] Planner: outputted 0 indexed solutions.
+D QUERY    [conn9] Planner: outputted 0 indexed solutions.
+D QUERY    [conn9] Planner: outputted 0 indexed solutions.
+D QUERY    [conn9] Planner: outputted 0 indexed solutions.

@@ -1,0 +1,4 @@
+D FTDC     [ftdc] full-time diagnostic data capture schema change: currrent document is longer than reference document
+D FTDC     [ftdc] full-time diagnostic data capture schema change: currrent document is longer than reference document
+D FTDC     [ftdc] full-time diagnostic data capture schema change: currrent document is longer than reference document
+D FTDC     [ftdc] full-time diagnostic data capture schema change: currrent document is longer than reference document

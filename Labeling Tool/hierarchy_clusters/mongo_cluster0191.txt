@@ -1,0 +1,6 @@
+D REPL     [thread17] Waiting for write concern. OpTime: { ts: Timestamp(0, 0), t: -1 }, write concern: { w: 1, wtimeout: 0 }
+D REPL     [thread17] Waiting for write concern. OpTime: { ts: Timestamp(0, 0), t: -1 }, write concern: { w: 1, wtimeout: 0 }
+D REPL     [thread17] Waiting for write concern. OpTime: { ts: Timestamp(0, 0), t: -1 }, write concern: { w: 1, wtimeout: 0 }
+D REPL     [thread17] Waiting for write concern. OpTime: { ts: Timestamp(0, 0), t: -1 }, write concern: { w: 1, wtimeout: 0 }
+D REPL     [thread17] Waiting for write concern. OpTime: { ts: Timestamp(0, 0), t: -1 }, write concern: { w: 1, wtimeout: 0 }
+D REPL     [thread17] Waiting for write concern. OpTime: { ts: Timestamp(0, 0), t: -1 }, write concern: { w: 1, wtimeout: 0 }

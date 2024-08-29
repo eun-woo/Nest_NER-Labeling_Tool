@@ -1,0 +1,1 @@
+I COMMAND  [conn9] command admin.$cmd appName: "MongoDB Shell" command: replSetGetStatus { replSetGetStatus: 1.0, forShell: 1.0, $db: "admin" } numYields:0 reslen:106 locks:{} protocol:op_msg 0ms

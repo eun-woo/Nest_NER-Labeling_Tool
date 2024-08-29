@@ -1,0 +1,1 @@
+I COMMAND  [conn9] command university.$cmd appName: "MongoDB Shell" command: find { find: "student", filter: {}, sort: "id", $db: "university" } numYields:0 reslen:143 locks:{} protocol:op_msg 0ms

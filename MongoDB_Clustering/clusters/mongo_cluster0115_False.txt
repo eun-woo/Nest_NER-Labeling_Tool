@@ -1,0 +1,1 @@
+D FTDC     [ftdc] full-time diagnostic data capture schema change: reference document is longer then current

@@ -1,0 +1,1 @@
+I JOURNAL  [journal writer] Journal writer thread started

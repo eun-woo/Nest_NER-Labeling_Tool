@@ -1,0 +1,1 @@
+I JOURNAL  [initandlisten] recover /var/lib/mongodb/journal/j._0

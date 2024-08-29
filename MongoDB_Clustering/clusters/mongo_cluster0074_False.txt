@@ -1,0 +1,1 @@
+D STORAGE  [initandlisten] config.system.indexes: clearing plan cache - collection info cache reset

@@ -1,0 +1,5 @@
+D STORAGE  [conn13] 15 writes (8 kB) covered by 15 pre-images (8 kB)
+D STORAGE  [conn13] 15 writes (32 kB) covered by 15 pre-images (32 kB)
+D STORAGE  [conn13] 15 writes (8 kB) covered by 15 pre-images (8 kB)
+D STORAGE  [conn13] 15 writes (8 kB) covered by 15 pre-images (8 kB)
+D STORAGE  [conn13] 15 writes (32 kB) covered by 15 pre-images (32 kB)

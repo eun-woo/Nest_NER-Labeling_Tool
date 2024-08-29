@@ -1,0 +1,3 @@
+D QUERY    [conn9] Only one plan is available; it will be run but will not be cached. query: {} sort: {} projection: {}, planSummary: COLLSCAN
+D QUERY    [conn9] Only one plan is available; it will be run but will not be cached. query: {} sort: {} projection: {}, planSummary: COLLSCAN
+D QUERY    [conn9] Only one plan is available; it will be run but will not be cached. query: {} sort: {} projection: {}, planSummary: COLLSCAN

@@ -1,0 +1,4 @@
+D STORAGE  [initandlisten] flushing directory /var/lib/mongodb/journal
+D STORAGE  [initandlisten] flushing directory /var/lib/mongodb/journal
+D STORAGE  [initandlisten] flushing directory /var/lib/mongodb/journal
+D STORAGE  [initandlisten] flushing directory /var/lib/mongodb

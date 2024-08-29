@@ -1,0 +1,1 @@
+D QUERY    [conn4] Index 0 is kp: { _id: 1 } unique name: '_id_' io: { v: 2, key: { _id: 1 }, name: "_id_", ns: "university.student" }

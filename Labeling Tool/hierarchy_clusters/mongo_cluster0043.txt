@@ -1,0 +1,1 @@
+I WRITE    [conn4] remove university.student command: { q: { id: 0 }, limit: 1 } planSummary: COLLSCAN keysExamined:0 docsExamined:7 ndeleted:1 keysDeleted:1 numYields:0 locks:{ Global: { acquireCount: { r: 1, w: 1 } }, MMAPV1Journal: { acquireCount: { w: 2 } }, Database: { acquireCount: { w: 1 } }, Collection: { acquireCount: { W: 1 } } } 2ms

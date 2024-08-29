@@ -1,0 +1,2 @@
+D STORAGE  [initandlisten] mmf close /var/lib/mongodb/university.0
+D STORAGE  [initandlisten] mmf close /var/lib/mongodb/university.ns

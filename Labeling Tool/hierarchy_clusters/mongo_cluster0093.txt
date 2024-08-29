@@ -1,0 +1,4 @@
+D COMMAND  [conn9] run command admin.$cmd { whatsmyuri: 1, $db: "admin" }
+D COMMAND  [conn9] run command admin.$cmd { buildinfo: 1.0, $db: "admin" }
+D COMMAND  [conn9] run command admin.$cmd { getLog: "startupWarnings", $db: "admin" }
+D COMMAND  [conn9] run command test.$cmd { buildInfo: 1.0, $db: "test" }

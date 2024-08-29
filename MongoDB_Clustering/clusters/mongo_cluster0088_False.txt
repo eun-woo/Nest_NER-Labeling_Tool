@@ -1,0 +1,1 @@
+D INDEX    [initandlisten] IndexRebuilder::checkNS: db.system.namespaces

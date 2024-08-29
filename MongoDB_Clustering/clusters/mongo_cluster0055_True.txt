@@ -1,0 +1,3 @@
+D QUERY    [initandlisten] Using idhack: query: { _id: "featureCompatibilityVersion" } sort: {} projection: {}
+D QUERY    [initandlisten] Using idhack: query: { _id: "authSchema" } sort: {} projection: {}
+D QUERY    [initandlisten] Using idhack: query: { _id: "shardIdentity" } sort: {} projection: {}

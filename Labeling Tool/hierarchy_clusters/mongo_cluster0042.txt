@@ -1,0 +1,1 @@
+D QUERY    [conn4] Only one plan is available; it will be run but will not be cached. query: { id: 0 } sort: {} projection: {}, planSummary: COLLSCAN

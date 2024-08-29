@@ -1,0 +1,1 @@
+D QUERY    [conn13] Collection config.transactions does not exist. Using EOF plan: query: { _id: { id: UUID("297b4f0c-bd0b-4f4b-894e-323af0c65998"), uid: BinData(0, E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855) } } sort: {} projection: {} ntoreturn=1

@@ -1,0 +1,1 @@
+I NETWORK  [conn11] received client metadata from 127.0.0.1:55766 conn: { driver: { name: "PyMongo", version: "3.6.1" }, os: { type: "Linux", name: "Ubuntu 16.04 xenial", architecture: "x86_64", version: "4.4.0-62-generic" }, platform: "CPython 2.7.12.final.0" }

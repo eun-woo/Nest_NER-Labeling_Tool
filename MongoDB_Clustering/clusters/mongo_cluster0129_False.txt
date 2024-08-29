@@ -1,0 +1,1 @@
+D NETWORK  [conn1] Starting server-side compression negotiation

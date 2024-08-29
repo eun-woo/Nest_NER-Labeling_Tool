@@ -1,0 +1,1 @@
+I COMMAND  [conn13] command admin.$cmd command: isMaster { ismaster: 1, client: { driver: { name: "PyMongo", version: "3.6.1" }, os: { type: "Linux", name: "Ubuntu 16.04 xenial", architecture: "x86_64", version: "4.4.0-62-generic" }, platform: "CPython 2.7.12.final.0" }, $db: "admin" } numYields:0 reslen:223 locks:{} protocol:op_query 0ms

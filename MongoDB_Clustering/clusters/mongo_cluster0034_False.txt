@@ -1,0 +1,1 @@
+I JOURNAL  [initandlisten] preallocating a journal file /var/lib/mongodb/journal/prealloc.0

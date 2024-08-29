@@ -1,0 +1,1 @@
+I JOURNAL  [initandlisten] journal dir=/var/lib/mongodb/journal

@@ -1,0 +1,1 @@
+D STORAGE  [thread10] 18 writes (0 kB) covered by 18 pre-images (0 kB)

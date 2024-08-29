@@ -1,0 +1,8 @@
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace admin.system.version with UUID 2a04c688-ba45-4349-a4e8-2f7581c20619
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace db.student with UUID a7cdfaa9-ec2f-49fc-bea7-3dc5c8565900
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace mongodb_tutorial.orders with UUID bd4c7f9a-87d7-4b63-b15d-eed55d2ef133
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace mongodb_tutorial.people with UUID 667be49e-7028-4b76-84ad-2d19ff237822
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace student.student with UUID 33fbc5f1-9cdf-41ee-bc45-c7a402d1b5d5
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace test.student with UUID 759c9ee7-79db-49e8-babe-d502893ae939
+D STORAGE  [initandlisten] NamespaceUUIDCache: registered namespace config.system.sessions with UUID ed9a2365-a1e1-4ee1-a08b-22295833e0e1

@@ -1,0 +1,4 @@
+D COMMAND  [conn9] run command university.$cmd { find: "student", filter: {}, sort: "id", $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { killCursors: "student", cursors: [ 52687030455 ], $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { killCursors: "student", cursors: [ 53747255459 ], $db: "university" }
+D COMMAND  [conn9] run command university.$cmd { killCursors: "student", cursors: [ 51771819255 ], $db: "university" }

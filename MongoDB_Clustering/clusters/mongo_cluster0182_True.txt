@@ -1,0 +1,1 @@
+D COMMAND  [conn4] run command config.$cmd { find: "transactions", filter: { _id: { id: UUID("bf2eab59-e8e3-41dc-a312-b192720bdf06"), uid: BinData(0, E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855) } }, ntoreturn: 1, singleBatch: true, $db: "config" }

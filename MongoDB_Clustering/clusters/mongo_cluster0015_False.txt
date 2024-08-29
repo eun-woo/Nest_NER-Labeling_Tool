@@ -1,0 +1,1 @@
+I -        [initandlisten] Detected data files in /var/lib/mongodb created by the 'mmapv1' storage engine, so setting the active storage engine to 'mmapv1'.

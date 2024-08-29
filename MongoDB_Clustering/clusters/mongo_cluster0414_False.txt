@@ -1,0 +1,1 @@
+I NETWORK  [conn12] end connection 127.0.0.1:55768 (2 connections now open)

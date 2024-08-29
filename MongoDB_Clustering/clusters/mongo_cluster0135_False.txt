@@ -1,0 +1,1 @@
+D NETWORK  [conn2] Compression negotiation not requested by client

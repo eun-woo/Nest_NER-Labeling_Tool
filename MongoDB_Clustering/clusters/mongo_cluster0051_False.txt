@@ -1,0 +1,1 @@
+D STORAGE  [initandlisten] admin.system.namespaces: clearing plan cache - collection info cache reset

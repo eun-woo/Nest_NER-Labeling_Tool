@@ -1,0 +1,2 @@
+D COMMAND  [thread10] run command config.$cmd { update: "system.sessions", ordered: false, allowImplicitCollectionCreation: false, $db: "config" }
+D COMMAND  [thread10] run command config.$cmd { update: "system.sessions", ordered: false, allowImplicitCollectionCreation: false, $db: "config" }

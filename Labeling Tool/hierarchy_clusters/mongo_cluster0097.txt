@@ -1,0 +1,1 @@
+I COMMAND  [conn9] command test.$cmd appName: "MongoDB Shell" command: buildInfo { buildInfo: 1.0, $db: "test" } numYields:0 reslen:1270 locks:{} protocol:op_msg 0ms

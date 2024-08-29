@@ -1,0 +1,8 @@
+D -        [initandlisten] reloading view catalog for database local
+D -        [initandlisten] reloading view catalog for database admin
+D -        [initandlisten] reloading view catalog for database db
+D -        [initandlisten] reloading view catalog for database university
+D -        [initandlisten] reloading view catalog for database mongodb_tutorial
+D -        [initandlisten] reloading view catalog for database student
+D -        [initandlisten] reloading view catalog for database test
+D -        [initandlisten] reloading view catalog for database config

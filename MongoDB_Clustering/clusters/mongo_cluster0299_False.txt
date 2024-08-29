@@ -1,0 +1,7 @@
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace test.student with UUID 759c9ee7-79db-49e8-babe-d502893ae939
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e
+D STORAGE  [conn9] NamespaceUUIDCache: registered namespace university.student with UUID 9f499703-5d76-4a5a-8c7d-c49807eaf54e

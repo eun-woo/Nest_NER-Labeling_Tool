@@ -1,0 +1,11 @@
+D JOURNAL  [journal writer] lsn set 4033
+D JOURNAL  [journal writer] lsn set 107680
+D JOURNAL  [journal writer] lsn set 145410
+D JOURNAL  [journal writer] lsn set 187625
+D JOURNAL  [journal writer] lsn set 304038
+D JOURNAL  [journal writer] lsn set 419864
+D JOURNAL  [journal writer] lsn set 462963
+D JOURNAL  [journal writer] lsn set 596816
+D JOURNAL  [journal writer] lsn set 604090
+D JOURNAL  [journal writer] lsn set 1504064
+D JOURNAL  [journal writer] lsn set 2104070

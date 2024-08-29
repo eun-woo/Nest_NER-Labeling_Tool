@@ -1,0 +1,3 @@
+I COMMAND  [conn9] command test.$cmd appName: "MongoDB Shell" command: isMaster { isMaster: 1.0, forShell: 1.0, $db: "test" } numYields:0 reslen:208 locks:{} protocol:op_msg 0ms
+I COMMAND  [conn9] command test.$cmd appName: "MongoDB Shell" command: isMaster { isMaster: 1.0, forShell: 1.0, $db: "test" } numYields:0 reslen:208 locks:{} protocol:op_msg 0ms
+I COMMAND  [conn9] command test.$cmd appName: "MongoDB Shell" command: isMaster { isMaster: 1.0, forShell: 1.0, $db: "test" } numYields:0 reslen:208 locks:{} protocol:op_msg 0ms
