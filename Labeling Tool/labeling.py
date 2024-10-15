@@ -21,7 +21,7 @@ with open(logfile, 'r') as f, open(jsonfile, 'a') as f2:
         line = line.strip()
 
         tokens = []
-        seps = [':', '(', ')', ';', '=', ' ', '[', ']', '{', '}', ',', '$', '<', '>', '-', '"', "'", ]
+        seps = [':', '(', ')', ';', '=', ' ', '[', ']', '{', '}', ',', '$', '<', '>', '"', "'"]
 
         token = ""
 
@@ -29,7 +29,6 @@ with open(logfile, 'r') as f, open(jsonfile, 'a') as f2:
 
         # 토크나이징 기준 1: 특수문자는 다 따로
         # 토크나이징 기준 2: 앞의 토큰이 모두 숫자인데 뒤에 숫자 아닌게 나오면 토큰
-        ddaom_count = 0
         token_start = 0
 
         for i in range(length):
@@ -37,24 +36,6 @@ with open(logfile, 'r') as f, open(jsonfile, 'a') as f2:
 
             # ch 가 seperator면 앞의 토큰을 저장하고, ch는 따로 또 저장해야 한다
             if ch in seps:
-                # seperator 중 따옴표는 기존 토큰들에 붙일 것
-                if ch == '"':
-                    ddaom_count += 1
-                    # 끝 따옴표
-                    if ddaom_count % 2 == 0:
-                        token += ch
-                        tokens.append((token, token_start, i + 1))
-                        token = ""
-                        token_start = i + 1
-                        continue
-                    # 시작 따옴표
-                    else:
-                        if len(token) != 0:
-                            tokens.append((token, token_start, i))
-                        token = ch
-                        token_start = i
-                        continue
-
                 if len(token) != 0:
                     tokens.append((token, token_start, i))
                     token_start = i
